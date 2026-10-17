@@ -1,0 +1,10 @@
+data/*.json
+data/*.tmp
+public/evidence/*
+!public/evidence/.gitkeep
+.env
+.env.*
+!.env.example
+.vercel/
+outputs/
+node_modules/
